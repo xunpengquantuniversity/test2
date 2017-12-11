@@ -1,0 +1,4 @@
+{
+  "baseImage": "jdadaptivealgo/scipy-notebook:latest",
+  "laguage": ["python2.7"]
+}
